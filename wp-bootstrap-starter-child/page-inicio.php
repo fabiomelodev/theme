@@ -21,7 +21,7 @@ get_header(); ?>
 
 <img
 class="img-fluid"
-src="<?php echo get_template_directory_uri()?>/../wp-bootstrap-starter-child/assets/images/banner-illustration.png"
+data-src="<?php echo get_template_directory_uri()?>/../wp-bootstrap-starter-child/assets/images/banner-illustration.png"
 alt="Single Temas">
 
 <?php endwhile; ?>
