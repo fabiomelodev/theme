@@ -16,5 +16,5 @@ function single_temas_scripts()
 add_action('wp_enqueue_scripts', 'single_temas_scripts');
 
 //register post ACF
-require get_template_directory() . '/inc/register-post-types.php';
-require get_template_directory() . '/inc/register-create-pages.php';
+require get_template_directory() . '/../wp-bootstrap-starter-child/inc/register-post-types.php';
+require get_template_directory() . '/../wp-bootstrap-starter-child/inc/register-create-pages.php';
