@@ -1,0 +1,13 @@
+Arquivo header.php
+* Corrigir o nome da classe "header" para "l-header"
+
+Arquivo: footer.php
+* Corrigir o nome da classe "footer" para "l-footer"
+
+Arquivo: functions.php
+* Require no arquivo single-files.php
+
+Arquivo: u-font-weight.scss
+* Corrigir os valores da classe "u-font-weight-semibold" e colocar "!important" no que falta
+
+Criar o arquivo padding.scss, margin.scss, width.scss, height.scss
